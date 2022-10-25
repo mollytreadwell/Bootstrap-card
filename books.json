@@ -1,0 +1,29 @@
+{
+    "books": [
+        {
+        "title": "How Beautiful We Were",
+        "author": "Imbolo Mbue",
+        "description": "In 'How Beautiful We Were,' an African village goes up against an American oil company. In 2016, during a presidential campaign punctuated by racist alarms about immigration, Imbolo Mbue published her first novel about an African man struggling to become an American citizen."
+        },
+        {
+        "title": "Intimacies",
+        "author": "Katie Kitamura",
+        "description": "An unnamed woman — youngish, single —  goes to work as an interpreter at an international court at The Hague. She's in flight from New York City, where her father recently died. Like nearly everyone in this novel, she leads a globalized, deracinated life."
+        },
+        {
+        "title": "The Songs of W.E.B. Dubois",
+        "author": "Honorée Fanonne Jeffers",
+        "description":"Du Bois is the 2021 debut novel by American poet Honorée Fanonne Jeffers. It explores the history of an African-American family in the American South, from the time before the American civil war and slavery, through the Civil Rights Movement, to the present."
+        },
+        {
+        "title": "No One is Talking About This",
+        "author": "Patricia Lockwood",
+        "description":"Fragmentary and omniscient, incisive and sincere, No One Is Talking About This is at once a love letter to the endless scroll and a profound, modern meditation on love, language, and human connection from a singular voice in American literature."
+        },
+        {
+        "title": "When We Cease to Understand The World",
+        "author": "Benjamín Labatut",
+        "description":"Benjamín Labatut’s Sebaldian “When We Cease to Understand the World” grapples with science’s moral quandaries, but what is real and what is imagined?"
+        }
+    ]
+}

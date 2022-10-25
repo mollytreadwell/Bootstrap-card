@@ -1,0 +1,31 @@
+.card {
+    padding: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    justify-content: flex;
+    flex: 1;
+    align-content: center;
+}
+
+.title {
+    text-align: center;
+    background: orange;
+    font-size: 2em;
+}
+
+.card-body {
+    background: gray;
+    border: 10px solid blueviolet;
+}
+
+.author {
+    padding: 10px;
+    font-style: italic;
+}
+
+.description {
+    font-size: small;
+}
+
+h1 {
+    text-align: center;
+}
